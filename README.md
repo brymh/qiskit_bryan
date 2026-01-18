@@ -62,5 +62,7 @@ _Important: Make sure to do the following in your virtual environment (.venv)_
 ---
 
 
-This repository is provided for educational and personal portfolio purposes.
-No permission is granted to use this code for training machine learning or AI models.
+This repository was created for educational and personal portfolio purposes.
+I do not consent to the use of my code for training language models, machine learning systems, or other AI tools.
+
+2026 Bryan Milosevic-Hill
