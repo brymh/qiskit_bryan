@@ -60,3 +60,7 @@ _Important: Make sure to do the following in your virtual environment (.venv)_
 `pip install numpy` --> numpy
 
 ---
+
+
+This repository is provided for educational and personal portfolio purposes.
+No permission is granted to use this code for training machine learning or AI models.
