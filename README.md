@@ -14,6 +14,10 @@
 ## **<span style="text-decoration:underline;">Motivation:</span>**
 
 This repository was created to document, store, and share my progress while I learn the qiskit api and solidify my understandings of Quantum Computation and Quantum Information 
+
+## **<span style="text-decoration:underline;">Texts Used:</span>**
+
+This repository was created to document, store, and share my progress while I learn the qiskit api and solidify my understandings of Quantum Computation and Quantum Information 
 ## **<span style="text-decoration:underline;">Installation:</span>**
 
 ### To Run Locally:
