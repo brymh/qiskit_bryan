@@ -13,11 +13,45 @@
 
 ## **<span style="text-decoration:underline;">Motivation:</span>**
 
-This repository was created to document, store, and share my progress while I learn the qiskit api and solidify my understandings of Quantum Computation and Quantum Information 
+This repository was created to document, store, and share my progress while I learn the qiskit api and solidify my understandings of Quantum Computation and Quantum Information. This repository will be updated in paralell with my progress working towards the **IBM Certified Quantum Computation using Qiskit v2.X** certification.
 
 ## **<span style="text-decoration:underline;">Texts Used:</span>**
 
-This repository was created to document, store, and share my progress while I learn the qiskit api and solidify my understandings of Quantum Computation and Quantum Information 
+The most used resources on my quantum journy.
+<table>
+  <tr>
+    <td width="140" valign="top">
+      <img src="md_elements/IBMCert.jpg" width="130" alt="IBM Cert Badge"/>
+    </td>
+    <td valign="top">
+      <b>IBM Certified Associate Developer – Quantum Computation using Qiskit</b><br/>
+      Built and ran Qiskit circuits, worked with measurement and basis changes, and used common primitives/tools to evaluate results on simulators and quantum hardware.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="140" valign="top">
+      <img src="md_elements/MichaelAndIsaac.jpg" width="130" alt="IBM Qiskit Badge"/>
+    </td>
+    <td valign="top">
+      <b>Qiskit Portfolio – Circuits, Experiments, and Notes</b><br/>
+      Documented hands-on experiments (coin flips, state prep, simple algorithms) with clean notebooks and reproducible runs.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="140" valign="top">
+      <img src="md_elements/ThomasWong.jpg" width="130" alt="IBM Qiskit Badge"/>
+    </td>
+    <td valign="top">
+      <b>Quantum Computing Foundations – Gates, Bloch Sphere, and Measurement</b><br/>
+      Practiced core gate intuition (X/H), interference, and measurement behavior; validated outcomes through simulations and measured distributions.
+    </td>
+  </tr>
+</table>
+
+
+
 ## **<span style="text-decoration:underline;">Installation:</span>**
 
 ### To Run Locally:
