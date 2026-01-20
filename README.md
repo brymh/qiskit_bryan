@@ -25,7 +25,7 @@ The most used resources on my quantum journy.
     </td>
     <td valign="top">
       <b>IBM Certified Associate Developer – Quantum Computation using Qiskit</b><br/>
-      In prepartion for the IBM Certified Quantum Computation using Qiskit v2.X Developer - Associate exam, I studdied every available lecture from the online IBM course playlists.
+      In prepartion for the IBM Certified Quantum Computation using Qiskit v2.X Developer - Associate exam, I am studying every available lecture from the online IBM course playlists.
     </td>
   </tr>
 
