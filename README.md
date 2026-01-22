@@ -34,7 +34,7 @@ The most used resources on my quantum journy.
       <img src="md_elements/MichaelAndIsaac.jpg" width="130" alt="IBM Qiskit Badge"/>
     </td>
     <td valign="top">
-      <b>Quantum Computation and Quantum Information Michael A. Nielsen and Isaac L. Chuang</b><br/>
+      <b>Quantum Computation and Quantum Information – Michael A. Nielsen and Isaac L. Chuang</b><br/>
       The first book to supercharge my interest and excitement aswell as my education on the topic was this textbook, which was given to me as a gift from my father.
     </td>
   </tr>
@@ -44,7 +44,7 @@ The most used resources on my quantum journy.
       <img src="md_elements/ThomasWong.jpg" width="130" alt="IBM Qiskit Badge"/>
     </td>
     <td valign="top">
-      <b>Introduction to Classical and Quantum Computing Thomas G. Wong</b><br/>
+      <b>Introduction to Classical and Quantum Computing – Thomas G. Wong</b><br/>
       The first text I read about quantum computing.
     </td>
   </tr>
