@@ -15,6 +15,9 @@ Thumbs.db
 
 # Qiskit credentials
 .qiskit/
+<<<<<<< HEAD
 
 #pip list 
 old_requirements.txt
+=======
+>>>>>>> abe7d570ea9f5b78ea7145b1b3325e11cc0b5ee1

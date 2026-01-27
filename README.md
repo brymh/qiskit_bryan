@@ -25,7 +25,11 @@ The most used resources on my quantum journy.
     </td>
     <td valign="top">
       <b>IBM Certified Associate Developer – Quantum Computation using Qiskit</b><br/>
+<<<<<<< HEAD
       Built and ran Qiskit circuits, worked with measurement and basis changes, and used common primitives/tools to evaluate results on simulators and quantum hardware.
+=======
+      In prepartion for the IBM Certified Quantum Computation using Qiskit v2.X Developer - Associate exam, I am studying every available lecture from the online IBM course playlists.
+>>>>>>> abe7d570ea9f5b78ea7145b1b3325e11cc0b5ee1
     </td>
   </tr>
 
@@ -34,8 +38,13 @@ The most used resources on my quantum journy.
       <img src="md_elements/MichaelAndIsaac.jpg" width="130" alt="IBM Qiskit Badge"/>
     </td>
     <td valign="top">
+<<<<<<< HEAD
       <b>Qiskit Portfolio – Circuits, Experiments, and Notes</b><br/>
       Documented hands-on experiments (coin flips, state prep, simple algorithms) with clean notebooks and reproducible runs.
+=======
+      <b>Quantum Computation and Quantum Information – Michael A. Nielsen and Isaac L. Chuang</b><br/>
+      The first book to supercharge my interest and excitement aswell as my education on the topic was this textbook, which was given to me as a gift from my father.
+>>>>>>> abe7d570ea9f5b78ea7145b1b3325e11cc0b5ee1
     </td>
   </tr>
 
@@ -44,8 +53,13 @@ The most used resources on my quantum journy.
       <img src="md_elements/ThomasWong.jpg" width="130" alt="IBM Qiskit Badge"/>
     </td>
     <td valign="top">
+<<<<<<< HEAD
       <b>Quantum Computing Foundations – Gates, Bloch Sphere, and Measurement</b><br/>
       Practiced core gate intuition (X/H), interference, and measurement behavior; validated outcomes through simulations and measured distributions.
+=======
+      <b>Introduction to Classical and Quantum Computing – Thomas G. Wong</b><br/>
+      The first text I read about quantum computing.
+>>>>>>> abe7d570ea9f5b78ea7145b1b3325e11cc0b5ee1
     </td>
   </tr>
 </table>
